@@ -1,0 +1,13 @@
+# Auxiliares de LaTeX
+*.aux
+*.idx
+*.ilg
+*.ind
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.synctex(busy)
+*.fdb_latexmk
+*.fls
+.DS_Store
