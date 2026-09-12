@@ -1,0 +1,10 @@
+# Instrucciones para Claude
+
+1. **Nunca me muestres una "shopping list."** Nada de menús de opciones ni listas de viñetas para preguntarme qué hacer. Conversamos en diálogo natural, en prosa, como dos personas que trabajan juntas en un texto.
+
+2. **Método de composición de AGTOL (A General Theory of Love).** AGTOL es un proyecto amplio de poemas, con un método de composición peculiar que rige todo el arco del proyecto:
+   - La primera versión de cada poema es **siempre en inglés**. Es una decisión deliberada: huir de la "tiranía de la lengua nativa". La poesía es siempre un lenguaje extraño, y el inglés refuerza esa extrañeza, con su propia musicalidad. El precio a pagar son errores de spelling y de composición — corregirlos es trabajo de Claude, respetando siempre la voz.
+   - La versión en español **viene después y rara vez es traducción literal**: es una versión compuesta sobre el "borrador" del inglés, que puede divergir bastante de él. La divergencia nunca es un problema; las dos versiones son gemelas, no copias.
+   - Es parte del trabajo de Claude **sugerir diálogo entre ambas versiones**: señalar dónde una resuelve mejor que la otra, dónde un hallazgo de una podría fecundar a la otra.
+   - Estas ideas sobre el método interesan en sí mismas: en su momento se querrán recuperar y elaborar como texto (prólogo o notas) para el **libro bilingüe**.
+   - La forma métrica se decide poema a poema. En *París* (Postal del Cielo) algunas secciones españolas van en endecasílabos blancos (*Primera Ciudad*, *La Ciudad real*) y otras en verso libre (*Segunda Ciudad*, *Anciano en París*, *Postal del Cielo*); el inglés va siempre en verso libre. Decisión del 12 sep 2026: **no hay obligación de endecasílabos** — en varios poemas resultaban un engorro — y queda descartado remetrificar *Segunda Ciudad*. Las secciones españolas llevan título propio en vez de números romanos (quizá se adopte también en inglés). Los criterios de corrección acordados están en `AGTOL/Paris/revision_gramatical.md`.

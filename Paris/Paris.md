@@ -57,7 +57,7 @@ the entanglement of our lithe bodies.
 
 We sneaked into the subway. Stole postcards,\
 read Baudelaire and Cavafy to each other,\
-and the city indulged us, complacent.\
+and the city indulged us, complicit.\
 It was the middle of May,\
 and we believed that spring\
 would last forever.
@@ -86,7 +86,7 @@ and longing.
 
 You did not visit the second city either,\
 the one that you roamed at twenty,\
-madly in love, without realizing\
+madly in love, without realising\
 that you were inventing both love and Paris.
 
 Those long days,\
@@ -100,7 +100,7 @@ the moon shining above your never-ending kisses.
 All of that\
 was just the plot of a soap opera.\
 The city was crowded with people repeating the same lines,\
-and yet no one realised. All the other million couples,\
+and yet no one realised. The million other couples,\
 going through the same words,\
 strolling the same parks,\
 kissing like a disciplined army by the river,\
@@ -170,7 +170,7 @@ as an old man. There is something in the air\
 that rejects you. The old covenant, good for so long,\
 is torn to pieces.
 
-What is it? It takes you a while to realise the reason.\
+What is it? It takes you a while to realise why.\
 You still move around,\
 watching everything and everybody,\
 absorbing land and people alike\
@@ -197,7 +197,7 @@ and hope to be spared.
 But then, again,\
 you return to the city with your children.
 
-Your daughter is twenty, still holds your hand,\
+Your daughter is twenty-two, still holds your hand,\
 talks non-stop about her latest love-boy.\
 He is coming to meet her.\
 They will walk the same streets,\
@@ -219,10 +219,10 @@ to fulfil his dreams.
 
 How strange, to feel so happy,\
 and so hopeless. So proud of him,\
-as a king watching his prince being knighted, yet,\
-a black hole eating your heart.
+as a king watching his prince being knighted, yet\
+with a black hole eating your heart.
 
-Turns out,\
+Took so long to learn,\
 love was not all those will-o’-the-wisps,\
 vanishing in the night,\
 like the light of fireflies.
@@ -233,7 +233,7 @@ made of blood and tears,\
 made of guilt and forgiveness,\
 made of years.
 
-Turns out,\
+Took so long to learn,\
 Paris was not Paradise,\
 but it can still be\
 a postcard from Heaven.
@@ -297,5 +297,5 @@ Sometimes he reads,\
 royal and languid as a lord in his library.
 
 Nearby, tourists\
-spend on a ticket to the modernist museum\
+spend on a ticket to the modern-art museum\
 what he needs to survive for a full month.

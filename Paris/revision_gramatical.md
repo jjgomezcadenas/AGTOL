@@ -119,3 +119,29 @@ Aprobado:
 > each one identical to the others,
 
 Criterio: ejemplo de corrección alcanzada por diálogo, en varios pasos. El original era gramatical pero de registro equivocado: la construcción `identical to that of...` es prosa formal, casi administrativa, impropia de la estrofa. Primera propuesta (Claude): `identical to the last trip's` — correcta pero sin convencer a nadie. Contrapropuesta (autor): podar del todo, `identical to the other` — el instinto de compresión era bueno (el detalle del "previous trip" resultaba prescindible: el tiempo congelado ya lo da el verso siguiente), pero `the other` presupone dos, y hay una serie. Para series el inglés ofrece `the next` (las habitaciones en fila temporal, una tras otra) o `the others` (todas fundidas en un solo conjunto intercambiable: todas las habitaciones eran la misma habitación). Se eligió `the others`, cuyo matiz es el más fiel al poema: no ordena precisamente lo que no fluía ("in those years when time did not seem to flow"). Lección: la mejor corrección puede no estar en la primera propuesta de nadie; la compresión la aporta el autor, la afinación gramatical el corrector, y el matiz decisivo aparece al comparar las formas correctas entre sí.
+
+## Decisión 10
+
+Original conservado:
+
+> with its air of brothel barely remodelled,
+
+Propuesta rechazada:
+
+> with the air of a barely remodelled brothel,
+
+Criterio: el original no es incorrecto. `Brothel` funciona sin artículo como cualidad o categoría, en una construcción poética comprimida. La regularización propuesta era gramaticalmente impecable y más idiomática en prosa, pero destruía parte del efecto buscado: en particular, la aliteración y el ritmo de `brothel barely remodelled`. Regla general para la revisión: no confundir extrañeza con incorrección. El inglés del poema puede ser deliberadamente extraño; si una construcción es gramaticalmente posible y su rareza produce música, compresión o intensidad, debe conservarse. La mera posibilidad de obtener una frase más pulcra o convencional no basta para justificar una corrección. Hay que intervenir cuando existe un error real, no cuando el texto simplemente se aparta del inglés más previsible.
+
+## Decisión 11
+
+Original conservado:
+
+> did not advertise the common bedroom, smelling
+> of bodies crammed into hammocks.
+
+Propuesta rechazada:
+
+> did not advertise the shared dormitory, smelling
+> of bodies crammed into hammocks.
+
+Criterio: `common bedroom` es menos habitual que `shared dormitory`, pero no es incorrecto: `common` puede designar algo compartido por varias personas. Su leve rigidez armoniza además con el nombre burocrático de la institución. La elección responde también a una aliteración distante entre `common` y `crammed`: ambas palabras comparten el armazón consonántico fuerte de la *c* inicial y la *m*, un eco que atraviesa el corte de verso sin volverse ornamental. Hay asimismo una relación semántica: `common` presenta la versión administrativa e inocua del dormitorio; `crammed` revela después, corporalmente, lo que aquella palabra encubría. La segunda palabra acusa a la primera. `Shared dormitory` sería más idiomático y preciso, pero también más neutral y previsible; eliminaría tanto el trabajo sonoro como esa transformación del sentido. Regla general: antes de sustituir una expresión extraña por otra más corriente, hay que examinar sus ecos a distancia y el modo en que sus palabras se modifican retrospectivamente dentro del pasaje.
